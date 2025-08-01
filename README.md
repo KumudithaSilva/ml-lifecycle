@@ -1,4 +1,4 @@
-# ML Lifecycle Guide ☁︎｡⋆𓅓｡☾
+# ML Lifecycle Guide ☁︎｡⋆𓅃｡☾
 
 This repository presents a refined and practical guide to designing and iterating through the end-to-end Machine Learning (ML) process — from problem framing to deployment.
 
